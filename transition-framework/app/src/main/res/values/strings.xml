@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">transitionwork</string>
+
+    <string name="transition_circle">transition circle</string>
+</resources>
